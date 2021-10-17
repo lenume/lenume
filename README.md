@@ -1,4 +1,4 @@
-- 👋 Hi, we are @lenume team
+- 👋 Hi, we are @liniume team
 - 👀 We are interested in software programing
 - 🌱 We are currently learning Java
 - 💞️ We are looking to collaborate with @apple
